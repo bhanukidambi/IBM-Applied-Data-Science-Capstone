@@ -1,2 +1,2 @@
-# Assignment-1
-This is the Week 1 assignment of IBM Applied Data Science Capstone 
+# Capstone-project
+Part 1 and 2 of Capstone project
